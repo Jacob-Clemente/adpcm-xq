@@ -1,0 +1,5 @@
+project: jacob-clemente/adpcm-xq
+target: adpcm-xq
+
+cmds:
+  - cmd: /adpcm-xq @@ out.wav
